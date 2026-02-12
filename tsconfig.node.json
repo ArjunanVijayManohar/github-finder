@@ -15,8 +15,8 @@
 
     /* Linting */
     "strict": true,
-    // "noUnusedLocals": true, --to stop type errors while building
-    // "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
